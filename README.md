@@ -11,5 +11,18 @@
 |桶排序|基数排序
 
 <details><summary>冒泡排序</summary>
+<h5>gif图演示</h5>
 <img src="https://pic3.zhimg.com/v2-b7d216a5b292cf3a5412bbc7fbb56a9e_b.webp"/>
+  
+  <a href=#>VB</a>
+  
+  <a href=#>C#</a>
+  
+  <a href=#>C</a>
+  
+  <a href=#>C++</a>
+  
+  <a href=#>Java</a>
+  
+  <a href=#>Python</a>
 </details>
