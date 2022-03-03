@@ -57,7 +57,7 @@
 </details>
 <details><summary>归并排序</summary>
 <h5>gif图演示</h5>
-<img src="https://pic3.zhimg.com/v2-9541d116b9ad191437cb0f9acce7baf6_b.jpg"/>
+<img src="https://pic3.zhimg.com/v2-9541d116b9ad191437cb0f9acce7baf6_b.webp"/>
   
   <p>代码实现</p>
   <a href=#>C++</a>|
