@@ -22,3 +22,15 @@
   <a href=#>VB</a>|
   <a href="https://github.com/3114aaa/math/blob/main/code/python/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.py">Python</a>
 </details>
+<details><summary>选择排序</summary>
+<h5>gif图演示</h5>
+<img src="https://pic1.zhimg.com/v2-44be35da53ae9ee564ce444542a43d10_b.webp"/>
+  
+  <p>代码实现</p>
+  <a href=#>C++</a>|
+  <a href=#>C</a>|
+  <a href=#>Java</a>|
+  <a href=#>C#</a>|
+  <a href=#>VB</a>|
+  <a href="https://github.com/3114aaa/math/blob/main/code/python/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.py">Python</a>
+</details>
